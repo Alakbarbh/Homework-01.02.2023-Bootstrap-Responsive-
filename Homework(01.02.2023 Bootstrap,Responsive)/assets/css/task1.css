@@ -1,0 +1,228 @@
+
+
+.card1{
+    height: 550px;
+    width: 100px;
+    border-radius: 20px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    transition: all 0.7s;
+}
+
+.card1:hover{
+    transform: scale(1.1);
+}
+
+.card2:hover{
+    transform: scale(1.1);
+}
+
+.card3:hover{
+    transform: scale(1.1);
+}
+
+.card4:hover{
+    transform: scale(1.1);
+}
+
+
+
+
+.card2{
+    height: 550px;
+    width: 100px;
+    border-radius: 20px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    transition: all 0.7s;
+}
+
+.card3{
+    height: 550px;
+    width: 100px;
+    border-radius: 20px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    transition: all 0.7s;
+}
+
+.card4{
+    height: 550px;
+    width: 100px;
+    border-radius: 20px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    transition: all 0.7s;
+}
+
+
+.shoes{
+    height: 250px;
+    width: 200px;
+    margin-left: 40px;
+}
+
+.airpod{
+    height: 250px;
+    width: 200px;
+    margin-left: 40px;
+}
+
+.watch{
+    height: 250px;
+    width: 200px;
+    margin-left: 40px;
+}
+
+.iphone{
+    height: 250px;
+    width: 200px;
+    margin-left: 40px;
+}
+
+
+.shoestext{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.shoessent{
+    text-align: center;
+    color: #CBCED0;
+    
+}
+
+.price1{
+    text-align: center;
+}
+
+.star1 li{
+    list-style: none;
+   font-size: 30px;
+}
+
+.star1 a{
+    color: orange;
+}
+
+.button1{
+    height: 66px;
+    width: 287px;
+    padding-bottom: 24px;
+    padding-top: 18px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: #E4E4E4;
+    background-color: #0C82A0;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.earphonetext{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.earphonesent{
+    text-align: center;
+    color: #CBCED0;
+
+}
+
+.price2{
+    text-align: center;
+}
+
+.star2 li{
+    list-style: none;
+    font-size: 30px;
+}
+
+.star2 a{
+    color: orange;
+}
+
+.button2{
+    height: 66px;
+    width: 287px;
+    padding-bottom: 24px;
+    padding-top: 18px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: #E4E4E4;
+    background-color: #3D3E6C;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+
+
+.watchtext{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.watchsent{
+    text-align: center;
+    color: #CBCED0;
+}
+
+.price3{
+    text-align: center;
+}
+
+.star3 a{
+    color: orange;
+
+}
+
+.star3 li{
+    list-style: none;
+    font-size: 30px;
+}
+
+.button3{
+    height: 66px;
+    width: 287px;
+    padding-bottom: 24px;
+    padding-top: 18px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: #E4E4E4;
+    background-color: black;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.iphonetext{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.iphonesent{
+    text-align: center;
+    color: #CBCED0;
+}
+
+.price4{
+    text-align: center;
+}
+
+.star4 a{
+    color: orange;
+}
+
+.star4 li{
+    list-style: none;
+    font-size: 30px;
+}
+
+.button4{
+    height: 66px;
+    width: 287px;
+    padding-bottom: 24px;
+    padding-top: 18px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: #E4E4E4;
+    background-color: #FFA04C;
+    font-family: cursive;
+    font-size: 20px;
+}
+    

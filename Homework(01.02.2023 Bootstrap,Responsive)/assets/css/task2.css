@@ -1,0 +1,203 @@
+body {
+    background-color: #F3B929;
+}
+
+
+
+.card1 {
+    height: 550px;
+    width: 150px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    transition: all 0.7s;
+}
+
+
+.card1:hover{
+    transform: scale(1.1);
+}
+
+.card2:hover{
+    transform: scale(1.1);
+}
+
+.card3:hover{
+    transform: scale(1.1);
+}
+
+.img1 {
+    height: 250px;
+
+}
+
+.name1 {
+    text-align: center;
+}
+
+.junior {
+    text-align: center;
+}
+
+.text1 {
+    color: #D897B8;
+    text-align: center;
+}
+
+.icon1 li {
+    list-style: none;
+    font-size: 30px;
+}
+
+.icon1 a {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: block;
+    text-align: center;
+    color: white;
+}
+
+
+
+.icon1 li:first-child a {
+    background-color: #435998;
+}
+
+.icon1 li:nth-child(2) a {
+    background-color: red;
+}
+
+.icon1 li:nth-child(3) a {
+    background-color: #0B81A7;
+}
+
+.icon1 li:last-child a {
+    background-color: #E05485;
+}
+
+
+
+.icon1 ul {
+    display: flex;
+    padding: 0;
+    justify-content: center;
+    gap: 15px;
+}
+
+.name2 {
+    text-align: center;
+}
+
+.text2 {
+    color: #D897B8;
+    text-align: center;
+}
+
+.card2 {
+    height: 550px;
+    width: 150px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    transition: all 0.7s;
+}
+
+.card3 {
+    height: 550px;
+    width: 150px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    transition: all 0.7s;
+}
+
+.singer {
+    text-align: center;
+}
+
+.icon2 a {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: block;
+    text-align: center;
+    color: white;
+}
+
+.icon2 li {
+    list-style: none;
+    font-size: 30px;
+
+}
+
+.name3 {
+    text-align: center;
+}
+
+.text3 {
+    color: #D897B8;
+    text-align: center;
+}
+
+.actor {
+    text-align: center;
+}
+
+
+
+.icon3 li {
+    list-style: none;
+    font-size: 30px;
+}
+
+.icon2 li:first-child a {
+    background-color: #435998;
+}
+
+.icon2 li:nth-child(2) a {
+    background-color: red;
+}
+
+.icon2 li:nth-child(3) a {
+    background-color: #0B81A7;
+}
+
+.icon2 li:last-child a {
+    background-color: #E05485;
+}
+
+.icon2 ul {
+    display: flex;
+    padding: 0;
+    justify-content: center;
+    gap: 15px;
+}
+
+
+.icon3 ul {
+    display: flex;
+    padding: 0;
+    justify-content: center;
+    gap: 15px;
+}
+
+.icon3 a {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: block;
+    text-align: center;
+    color: white;
+}
+
+.icon3 li:first-child a {
+    background-color: #435998;
+}
+
+.icon3 li:nth-child(2) a {
+    background-color: red;
+}
+
+.icon3 li:nth-child(3) a {
+    background-color: #0B81A7;
+}
+
+.icon3 li:last-child a {
+    background-color: #E05485;
+}
+
